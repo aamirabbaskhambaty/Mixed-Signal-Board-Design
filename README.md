@@ -15,7 +15,7 @@ The following project is a 4 layer 2 sided assembly mixed signal Printed Circuit
 11. External UART
 12. External CAN Interface
 
-Project Files have been uploaded to the repository.
+Project Files: https://drive.google.com/file/d/1VJBWXq-K9kJZ_awtzaT9Cy5g2GnuiFtt/view?usp=drive_link
     
 **Schematic Block Diagram**
 
